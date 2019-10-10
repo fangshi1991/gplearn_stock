@@ -1,4 +1,8 @@
 '''
 Genetic Programming in Python,with a scikit-learn inspired API
 
+gplearn is a set of algorithms for learnin genetic programming models
+
 '''
+__version__ = '0.4.1'
+__all__ = ['genetic','functions','fitness']
