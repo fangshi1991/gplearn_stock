@@ -1,3 +1,4 @@
+# encoding:utf-8
 from load_data.loader import load_day_data,load_minute_data
 import numpy as np
 import matplotlib.pyplot as plt
